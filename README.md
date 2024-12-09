@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hey there, I’m Souop Silvain Brayan (aka Jay)!  
 
 Welcome to my little corner of GitHub. I’m a junior software developer and a student AI engineer on a mission to build amazing tech and solve real-world problems.  
