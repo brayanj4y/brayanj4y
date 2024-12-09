@@ -10,7 +10,7 @@ Welcome to my little corner of GitHub. I’m a junior software developer and a s
 - 🔭 **Currently working on:**  
   A platform called **LifeLink AI**—a cool project to connect people with tutors, professionals, and even therapists. It’s all about making life easier and smarter!  
 - 🌱 **Currently learning:**  
-  Exploring **AI/ML frameworks** (PyTorch, TensorFlow), mastering **FlutterFlow**, and creating systems like **facial recognition tools**.  
+  Exploring **AI/ML frameworks** (PyTorch, TensorFlow), mastering **FlutterFlow**, and creating systems like **AI/ML tools**.  
 - 👯 **Looking to collaborate on:**  
   AI, web, and mobile app projects. If you’ve got an exciting idea, let’s make it happen!  
 - 🤔 **Need help with:**  
