@@ -23,7 +23,7 @@ Welcome to my little corner of GitHub. I’m a junior software developer and a s
 
 ## My Roadmap  
 Here’s what I’m working on:  
-[![roadmap.sh](https://roadmap.sh/card/wide/66cc20c792ec1a8a736a40a8?variant=dark&roadmaps=ai-engineer)](https://roadmap.sh)
+
 
 ---
 
