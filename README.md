@@ -23,12 +23,12 @@ Welcome to my little corner of GitHub. I’m a junior software developer and a s
 
 ## My Roadmap  
 Here’s what I’m working on:  
+![Screenshot 2024-11-06 034942](https://github.com/user-attachments/assets/422d86f8-6369-4f66-8d54-4e98eef7ede1)
 
 
 ---
 
-## Fun Stuff  
-- 😄 **Pronouns:** He/Him  
+## Fun Stuff   
 - ⚡ **Fun fact:**  
   I dream about solving problems with AI, but sometimes the hardest bug to squash is in my head. 😂  
 - 🎯 **Life Goals:** Become an AI engineer and create tech that makes a difference.  
