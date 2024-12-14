@@ -2,7 +2,7 @@
 
 I’m a **junior software developer** and an aspiring **AI engineer**, passionate about building tech that solves real-world problems.  
 
----
+
 
 ## What I Do  
 - 🔭 **Current Project:** Developing **LifeLink AI**, a platform connecting users with experts like tutors and therapists.  
@@ -10,7 +10,7 @@ I’m a **junior software developer** and an aspiring **AI engineer**, passionat
 - 👯 **Collaboration:** Open to **AI**, **web**, and **mobile app** projects.  
 - 🎯 **Goal:** Create impactful solutions as a future AI engineer.  
 
----
+
 
 ## Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-j4y)  
