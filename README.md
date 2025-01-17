@@ -5,7 +5,7 @@ I’m a **junior software developer** and an aspiring **AI engineer**, passionat
 
 
 ## What I Do  
-- 🔭 **Current Project:** Developing **LifeLink AI**, a platform connecting users with experts like tutors and therapists.  
+- 🔭 **Current Project:** Developing **LifeLink AI**, a platform connecting users with experts like tutors and therapists etc.  
 - 🌱 **Learning:** AI/ML frameworks, FlutterFlow, and scalable system design.  
 - 👯 **Collaboration:** Open to **AI**, **web**, and **mobile app** projects.  
 - 🎯 **Goal:** Create impactful solutions as a future AI engineer.  
