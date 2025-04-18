@@ -1,22 +1,17 @@
 # 👋 Hi, I’m **Souop Silvain Brayan** (aka Jay)  
-
-I’m a **junior software developer** and an aspiring **AI engineer**, passionate about building tech that solves real-world problems.  
-
-
-
+I’m a **junior software developer** and an aspiring **AI engineer**, passionate about building tech that solves real-world problems.
 ## What I Do  
-- 🔭 **Current Project:** Developing **LifeLink AI**, a platform connecting users with experts like tutors and therapists etc.  
-- 🌱 **Learning:** AI/ML frameworks, FlutterFlow, and scalable system design.  
-- 👯 **Collaboration:** Open to **AI**, **web**, and **mobile app** projects.  
-- 🎯 **Goal:** Create impactful solutions as a future AI engineer.  
+- 🔭 **Current Project:** Developing **LifeLink AI**, a platform connecting users with experts like tutors and therapists etc.  <br>- 🌱 **Learning:** AI/ML frameworks, FlutterFlow, and scalable system design.  <br>- 👯 **Collaboration:** Open to **AI**, **web**, and **mobile app** projects.  <br>- 🎯 **Goal:** Create impactful solutions as a future AI engineer. 
 
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brayanj4y) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/brayan-j4y) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souopsilvain@hotmail.com) 
 
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=brayanj4y&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false)
+![](https://nirzak-streak-stats.vercel.app/?user=brayanj4y&theme=flag-india&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=brayanj4y&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## Let’s Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brayan-j4y/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brayanj4y)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:souopsylvain@gmail.com) 
-## My Organization
-[![CodeHive by Jay](https://img.shields.io/badge/CodeHive%20by%20Jay-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/CodeHive-by-Jay/)
-
-
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=brayanj4y&theme=radical&no-frame=false&no-bg=true&margin-w=4)
