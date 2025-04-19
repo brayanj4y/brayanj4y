@@ -1,4 +1,4 @@
-## 👋 Hi,I’m Souop Silvain Brayan (aka Jay)
+## 👋 Hi, I’m Souop Silvain Brayan (aka Jay)
 
 I'm a **junior software developer** and aspiring **AI engineer**, passionate about building tech that solves real-world problems.
 
