@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Souop Silvain Brayan (aka Jay)
 
-I'm a **junior software developer** and aspiring **AI engineer**, passionate about building tech that solves real-world problems.
+I'm a **junior software developer** and aspiring **AI engineer**.
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brayanj4y&theme=flag-india&hide_border=false&include_all_commits=false&count_private=false) 
 
