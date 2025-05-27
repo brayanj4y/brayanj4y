@@ -1,3 +1,7 @@
+---
+pinned: true
+---
+
 ## 👋 Hi, I’m Souop Silvain Brayan (aka Jay)
 
 A **junior software developer** and aspiring **AI engineer**.
