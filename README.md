@@ -1,6 +1,6 @@
 
 
-## 👋 Hi, I’m Souop Silvain Brayan (Brayan Jay)
+## 👋 Hi, I’m Souop Silvain Brayan (brayanj4y)
 
 A **junior software engineer** and aspiring **AI engineer**.
 
