@@ -1,6 +1,6 @@
 
 
-## 👋 Hi, I’m brayanj4y
+## Hi, I’m brayanj4y
 
 A **junior software engineer** and aspiring **AI engineer**.
 
@@ -8,7 +8,7 @@ A **junior software engineer** and aspiring **AI engineer**.
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-### 🌐 Connect With Me
+### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/brayan-j4y)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?logo=X&logoColor=white)](https://x.com/brayanj4y)
