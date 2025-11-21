@@ -2,7 +2,7 @@
 
 ## hi, i’m brayanj4y
 
-a **software engineer** and aspiring **AI engineer**.
+a **software engineer** and aspiring **ai engineer**.
 
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
