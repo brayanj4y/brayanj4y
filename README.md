@@ -1,6 +1,6 @@
 
 
-## hi, i’m brayanj4y
+## hi, i’m brayan(j4y)
 
 a **software engineer** and aspiring **ai engineer**.
 
