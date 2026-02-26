@@ -1,4 +1,4 @@
-
+![](https://komarev.com/ghpvc/?username=brayanj4y&style=plastic&color=8B4513&label=i+know+u+see+me)
 
 ## hi, i’m brayan(j4y)
 
