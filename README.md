@@ -10,11 +10,11 @@ a **software engineer building, shipping, and occasionally breaking ai products.
 
 [![Ention Apps](https://img.shields.io/badge/Ention%20Apps-8B4513?style=plastic)](https://ention-ai.vercel.app)
 
-> an ai-powered app builder that generates full-stack applications you can customize, own, and deploy anywhere.
+an ai-powered app builder that generates full-stack applications you can customize, own, and deploy anywhere.
 
 [![Ention Agents](https://img.shields.io/badge/Ention%20Agents-8B4513?style=plastic)](https://rushedai.com)
 
-> autonomous ai coding agents that turn ideas and tasks into real code changes, working directly with your repositories.
+autonomous ai coding agents that turn ideas and tasks into real code changes, working directly with your repositories.
 
 ### connect with me
 
