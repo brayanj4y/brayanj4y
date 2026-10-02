@@ -12,10 +12,6 @@ a **software engineer building, shipping, and occasionally breaking ai products.
 
 an ai-powered app builder that generates full-stack applications you can customize, own, and deploy anywhere.
 
-[![Ention Agents](https://img.shields.io/badge/Ention%20Agents-8B4513?style=plastic)](https://rushedai.com)
-
-autonomous ai coding agents that turn ideas and tasks into real code changes, working directly with your repositories.
-
 ### connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic\&logo=LinkedIn\&logoColor=white)](https://www.linkedin.com/in/brayanj4y)
