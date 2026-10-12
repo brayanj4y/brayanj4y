@@ -6,12 +6,6 @@ a **software engineer building, shipping, and occasionally breaking ai products.
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-### what i’m building
-
-[![Ention Apps](https://img.shields.io/badge/Ention%20Apps-8B4513?style=plastic)](https://ention-ai.vercel.app)
-
-an ai-powered app builder that generates full-stack applications you can customize, own, and deploy anywhere.
-
 ### connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic\&logo=LinkedIn\&logoColor=white)](https://www.linkedin.com/in/brayanj4y)
