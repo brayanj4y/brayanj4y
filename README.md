@@ -10,4 +10,4 @@ a **software engineer building, shipping, and occasionally breaking ai products.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230A66C2.svg?style=plastic\&logo=LinkedIn\&logoColor=white)](https://www.linkedin.com/in/brayanj4y)
 [![Twitter](https://img.shields.io/badge/Twitter-%23000000.svg?style=plastic\&logo=X\&logoColor=white)](https://x.com/brayanj4y)
-[![Email](https://img.shields.io/badge/Email-D14836?style=plastic\&logo=gmail\&logoColor=white)](mailto:souopsilvain@hotmail.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=plastic\&logo=gmail\&logoColor=white)](mailto:souopsylvain@gmail.com)
